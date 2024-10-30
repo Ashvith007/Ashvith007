@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashvith K Shaji
 - 👀 I’m interested in PC buliding ,tech ,videography 
-- 🌱 I’m currently learning mechatronics engineering.
-- 📫 Reach me at ashvithkshaji2001@gmail.com
+- 🌱 Done with mechatronics engineering.!
+- 📫 Happy coding
 
 <!---
 Ashvith007/Ashvith007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
